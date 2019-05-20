@@ -1,0 +1,15 @@
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.exe
+
+*.vcd
+*.ghw
+*flag.txt
+*.cf
+
+*temp*
+*.log
