@@ -1,6 +1,6 @@
 FLAGS =
 FLAG_FILE = head/flag.txt alu/alu_util/flag.txt util/fifo/flag.txt alu/alu_fifo/flag.txt alu/alu_rom/flag.txt alu/alu_calc/flag.txt alu/alu_dot_mul/flag.txt alu/alu_conv/flag.txt alu/alu_pool/flag.txt
-GHW_FILE = util/fifo/fifo.ghw alu/alu_fifo/alu_fifo.ghw alu/alu_rom/alu_rom.ghw alu/alu_dot_mul/alu_dot_mul.ghw alu/alu/conv/alu_conv.ghw alu/alu_pool/alu_pool.ghw
+GHW_FILE = util/fifo/fifo.ghw alu/alu_fifo/alu_fifo.ghw alu/alu_rom/alu_rom.ghw alu/alu_dot_mul/alu_dot_mul.ghw alu/alu_conv/alu_conv.ghw alu/alu_pool/alu_pool.ghw
 WORKOBJ = work-obj93.cf
 
 .PHONY: all clean
